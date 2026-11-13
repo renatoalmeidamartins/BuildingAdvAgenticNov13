@@ -39,3 +39,14 @@
     - [OWASP agentic AI Top 10](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/)
     - [The Agentic AI Security Scoping Matrix: A framework for securing autonomous AI systems](https://aws.amazon.com/blogs/security/the-agentic-ai-security-scoping-matrix-a-framework-for-securing-autonomous-ai-systems/)
     - [OWASP's Agentic AI – Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
+    - [Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/)
+    - [Why Policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows](https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/)
+    - [Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/)
+    - [Lens Catalog for AWS Well-Architected Tool](https://docs.aws.amazon.com/wellarchitected/latest/userguide/lens-catalog.html)
+    - [Responsible AI](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/responsible-ai.html) in the Generative AI lens
+    - [What is AWS Well-Architected Agent (preview)?](https://docs.aws.amazon.com/wellarchitected/latest/userguide/agent.html)
+- [Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/)
+- Evaluations
+    - [Bult-in prompts for agentcore evaluations](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
+    - [Bult-in prompts for bedrock evaluations](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-metrics.html)
+    - [Bult-in prompts for RAG bedrock evaluations](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-eval-prompt.html)
