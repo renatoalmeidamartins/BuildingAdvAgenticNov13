@@ -17,3 +17,9 @@
 - Strands SDK
     - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
     - [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
+    - Some communication patterns
+        - [Swarm](https://strandsagents.com/docs/user-guide/sdk/multi-agent/swarm/)
+        - [Workflow](https://strandsagents.com/docs/user-guide/sdk/multi-agent/workflow/)
+        - [Graph](https://strandsagents.com/docs/user-guide/sdk/multi-agent/graph/)
+- Memory
+    - [Langchain's discussion on memory](https://docs.langchain.com/oss/python/concepts/memory), just to illustrate the problems with memory belong to any agentic approach
