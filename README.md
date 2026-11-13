@@ -9,3 +9,11 @@
 - [What is prompt engineering](https://aws.amazon.com/what-is/prompt-engineering/)
 - [IPR: Intelligent Prompt Routing with User-Controlled Quality-Cost Trade-offs](https://arxiv.org/pdf/2509.06274)
 - [Understanding intelligent prompt routing in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
+- [Model Context Protocol - MCP](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+- [MCP repo](https://github.com/modelcontextprotocol/)
+- [MCP inspector](https://github.com/modelcontextprotocol/inspector)
+- [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+- [A2A repo](https://github.com/a2aproject/a2a)
+- Strands SDK
+    - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
+    - [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
