@@ -27,3 +27,5 @@
     - [Langchain's discussion on memory](https://docs.langchain.com/oss/python/concepts/memory), just to illustrate the problems with memory belong to any agentic approach
     - [System prompts for the built-in memory strategies in Agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
 - [Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/)
+- [Bedrock's converse API](https://docs.aws.amazon.com/bedrock/latest/userguide/conversation-inference.html)
+- [Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/) - **now available through a "dedicated" service, bedrock-mantle**
