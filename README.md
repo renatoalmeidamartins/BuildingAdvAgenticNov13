@@ -2,7 +2,7 @@
 
 ## Labs, courseware and survey
 - [Access to labs and courseware](https://us-east-1.student.classrooms.aws.training/class/ilt%23jUr4Djz5CWvRAnZZ5FFUSs)
-
+- Go to [myclass](https://myclass.skillbuilder.aws). In the "past classes" section, you have a link for the surve.
 ## Links to additional content
 - [Effective context engineering for AI agents](https://www.anthropic.com/research/effective-context-engineering-for-ai-agents)
 - ReActg: Sinergizing reasoning and action in language models, [blog](https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/) and [research paper](https://arxiv.org/pdf/2210.03629)
@@ -50,3 +50,9 @@
     - [Bult-in prompts for agentcore evaluations](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
     - [Bult-in prompts for bedrock evaluations](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-metrics.html)
     - [Bult-in prompts for RAG bedrock evaluations](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-eval-prompt.html)
+- Deploying to agentcore
+    - **DEPRECATED**: [Bedrock AgentCore Starter Toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
+    - [Agentcore CLI](https://github.com/aws/agentcore-cli)
+- [Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/)
+- [Open source MCP servers for AWS](https://github.com/awslabs/mcp)
+- [Get started with Amazon Bedrock AgentCore Runtime direct code deployment](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-get-started-code-deploy.html)
