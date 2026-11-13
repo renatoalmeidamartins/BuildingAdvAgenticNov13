@@ -21,6 +21,8 @@
         - [Swarm](https://strandsagents.com/docs/user-guide/sdk/multi-agent/swarm/)
         - [Workflow](https://strandsagents.com/docs/user-guide/sdk/multi-agent/workflow/)
         - [Graph](https://strandsagents.com/docs/user-guide/sdk/multi-agent/graph/)
+    - [Hooks](https://strandsagents.com/docs/user-guide/sdk/agents/hooks-events/)
+    - [Conversation Managers](https://strandsagents.com/docs/user-guide/sdk/agents/conversation-management/)
 - Memory
     - [Langchain's discussion on memory](https://docs.langchain.com/oss/python/concepts/memory), just to illustrate the problems with memory belong to any agentic approach
     - [System prompts for the built-in memory strategies in Agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
